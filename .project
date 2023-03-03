@@ -5,5 +5,5 @@
     "hardware": ["RASPBERRY_PI-4"],
     "software": ["PYTHON"],
     "overview": "Скрипт для подсветки клавиш электронного пианино.",
-    "making": "Скрипт (piano_key_illuminator)[https://github.com/rydercalmdown/piano_key_illuminator] by @rydercalmdown для _**`RASPBERRY_PI-4`**_ дает доступ к управлению подсоединенной к нему светодиодной лентой и каждым её светодиодом отдельно. Midi-сигнал електронного пианино по _USB_ передается на _**`RASPBERRY_PI-4`**_ и зажигает светодиод соответствующий нажатой клавише пианино." 
+    "making": "Скрипт [piano_key_illuminator](https://github.com/rydercalmdown/piano_key_illuminator) by **_@rydercalmdown_** для _**`RASPBERRY_PI-4`**_ дает доступ к управлению подсоединенной к нему светодиодной лентой и каждым её светодиодом отдельно. Midi-сигнал електронного пианино по _USB_ передается на _**`RASPBERRY_PI-4`**_ и зажигает светодиод соответствующий нажатой клавише пианино." 
 }
