@@ -12,7 +12,7 @@ _`ROLAND_FP-10`_ _`LED_STRIPE`_
 
 _`PYTHON`_  _**`RASPBERRY_PI-4`**_ 
 
-Скрипт [piano_key_illuminator](https://github.com/rydercalmdown/piano_key_illuminator) by **_@rydercalmdown_** для _**`RASPBERRY_PI-4`**_ дает доступ к управлению подсоединенной к нему светодиодной лентой и каждым её светодиодом отдельно. Midi-сигнал електронного пианино по _USB_ передается на _**`RASPBERRY_PI-4`**_ и зажигает светодиод соответствующий нажатой клавише пианино.
+Репозиторий [piano_key_illuminator](https://github.com/rydercalmdown/piano_key_illuminator) by **_@rydercalmdown_** загруженный на _**`RASPBERRY_PI-4`**_ даёт возможность управлять светодиодной лентой и каждым её светодиодом отдельно. Лента и электронное пианино подключены к _**`RASPBERRY_PI-4`**_, _midi_-сигнал передается по _USB_ и зажигает светодиод соответствующий нажатой клавише на пианино.
 
 <a id="300" href="https://ewwgene.github.io/Piano_Key_Illuminator/Carousel/#300"><img src="https://ewwgene.github.io/Piano_Key_Illuminator/300.gif" height="66"></a> 
 
