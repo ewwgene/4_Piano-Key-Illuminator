@@ -4,6 +4,6 @@
     "material": ["ROLAND_FP-10", "LED_STRIP"],
     "hardware": ["RASPBERRY_PI-4"],
     "software": ["PYTHON"],
-    "overview": "Скрипт для подсветки клавиш электронного пианино :musical_keyboard::musical_note:",
-    "making": "Репозиторий [piano_key_illuminator](https://github.com/rydercalmdown/piano_key_illuminator) by **_@rydercalmdown_** загруженный на _**`RASPBERRY_PI-4`**_ даёт возможность управлять светодиодной лентой и каждым её светодиодом отдельно. Лента и электронное пианино подключены к _**`RASPBERRY_PI-4`**_, _midi_-сигнал передается по _USB_ и зажигает светодиод соответствующий нажатой клавише на пианино." 
+    "overview": "Скрипт для подсветки клавиш электронного пианино :musical_note: :musical_keyboard: ",
+    "making": "Используется репозиторий [piano_key_illuminator](https://github.com/rydercalmdown/piano_key_illuminator) by **_@rydercalmdown_**. Адресная светодиодная лента и пианино подключены к _**`RASPBERRY_PI-4`**_, _midi_-сигнал передается по _USB_ и загорается светодиод соответствующий нажатой клавише на пианино." 
 }

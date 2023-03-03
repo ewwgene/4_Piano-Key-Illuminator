@@ -5,14 +5,14 @@
 
 _`ROLAND_FP-10`_ _`LED_STRIP`_ 
 
-Скрипт для подсветки клавиш электронного пианино :musical_keyboard::musical_note:
+Скрипт для подсветки клавиш электронного пианино :musical_note: :musical_keyboard: 
 
 ### Making — _WINTER-2022.06._
 <a id="111m" href="https://ewwgene.github.io/Piano_Key_Illuminator/Carousel/#111m"><img src="https://ewwgene.github.io/Piano_Key_Illuminator/Making/111.jpg" height="66"></a> <a id="113m" href="https://ewwgene.github.io/Piano_Key_Illuminator/Carousel/#113m"><img src="https://ewwgene.github.io/Piano_Key_Illuminator/Making/113.jpg" height="66"></a> <a id="115m" href="https://ewwgene.github.io/Piano_Key_Illuminator/Carousel/#115m"><img src="https://ewwgene.github.io/Piano_Key_Illuminator/Making/115.jpg" height="66"></a> <a id="117m" href="https://ewwgene.github.io/Piano_Key_Illuminator/Carousel/#117m"><img src="https://ewwgene.github.io/Piano_Key_Illuminator/Making/117.jpg" height="66"></a> <a id="211m" href="https://ewwgene.github.io/Piano_Key_Illuminator/Carousel/#211m"><img src="https://ewwgene.github.io/Piano_Key_Illuminator/Making/211.jpg" height="66"></a> <a id="311m" href="https://ewwgene.github.io/Piano_Key_Illuminator/Carousel/#311m"><img src="https://ewwgene.github.io/Piano_Key_Illuminator/Making/311.jpg" height="66"></a> <a id="313m" href="https://ewwgene.github.io/Piano_Key_Illuminator/Carousel/#313m"><img src="https://ewwgene.github.io/Piano_Key_Illuminator/Making/313.jpg" height="66"></a> <a id="315m" href="https://ewwgene.github.io/Piano_Key_Illuminator/Carousel/#315m"><img src="https://ewwgene.github.io/Piano_Key_Illuminator/Making/315.jpg" height="66"></a> <a id="317m" href="https://ewwgene.github.io/Piano_Key_Illuminator/Carousel/#317m"><img src="https://ewwgene.github.io/Piano_Key_Illuminator/Making/317.jpg" height="66"></a> <a id="401m" href="https://ewwgene.github.io/Piano_Key_Illuminator/Carousel/#401m"><img src="https://ewwgene.github.io/Piano_Key_Illuminator/Making/401.jpg" height="66"></a> <a id="403m" href="https://ewwgene.github.io/Piano_Key_Illuminator/Carousel/#403m"><img src="https://ewwgene.github.io/Piano_Key_Illuminator/Making/403.jpg" height="66"></a> <a id="411m" href="https://ewwgene.github.io/Piano_Key_Illuminator/Carousel/#411m"><img src="https://ewwgene.github.io/Piano_Key_Illuminator/Making/411.gif" height="66"></a>  
 
 _`PYTHON`_  _**`RASPBERRY_PI-4`**_ 
 
-Репозиторий [piano_key_illuminator](https://github.com/rydercalmdown/piano_key_illuminator) by **_@rydercalmdown_** загруженный на _**`RASPBERRY_PI-4`**_ даёт возможность управлять светодиодной лентой и каждым её светодиодом отдельно. Лента и электронное пианино подключены к _**`RASPBERRY_PI-4`**_, _midi_-сигнал передается по _USB_ и зажигает светодиод соответствующий нажатой клавише на пианино.
+Используется репозиторий [piano_key_illuminator](https://github.com/rydercalmdown/piano_key_illuminator) by **_@rydercalmdown_**. Адресная светодиодная лента и пианино подключены к _**`RASPBERRY_PI-4`**_, _midi_-сигнал передается по _USB_ и загорается светодиод соответствующий нажатой клавише на пианино.
 
 <a id="300" href="https://ewwgene.github.io/Piano_Key_Illuminator/Carousel/#300"><img src="https://ewwgene.github.io/Piano_Key_Illuminator/300.gif" height="66"></a> 
 
