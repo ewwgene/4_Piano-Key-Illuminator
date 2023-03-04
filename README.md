@@ -12,7 +12,7 @@ _`ROLAND_FP-10`_ _`LED_STRIP`_
 
 _`PYTHON`_  _**`RASPBERRY_PI-4`**_ 
 
-Используется репозиторий [piano_key_illuminator](https://github.com/rydercalmdown/piano_key_illuminator) by **_@rydercalmdown_**. Адресная светодиодная лента и пианино подключены к _**`RASPBERRY_PI-4`**_, _midi_-сигнал передается по _USB_ и загорается светодиод соответствующий нажатой клавише на пианино.
+Используется репозиторий [piano_key_illuminator](https://github.com/rydercalmdown/piano_key_illuminator) by **_@rydercalmdown_**. Адресная светодиодная лента и пианино подключены к _**`RASPBERRY_PI-4`**_, _midi_-сигнал передается по _USB_.
 
 <a id="300" href="https://ewwgene.github.io/Piano_Key_Illuminator/Carousel/#300"><img src="https://ewwgene.github.io/Piano_Key_Illuminator/300.gif" height="66"></a> 
 
