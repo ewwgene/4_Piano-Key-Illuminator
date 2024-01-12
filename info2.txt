@@ -1,1 +1,3 @@
-RASPBERRY_PI-4 & ROLAND_FP-10
+Raspberry Pi 4
+<br><br>
+Roland - FP-10
